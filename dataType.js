@@ -89,3 +89,7 @@ console.log(test18)
 //1 ** 5 = 1
 //Then we have true < 1
 //true is 1, and 1 is not less than 1 so result false.
+
+let test19 = null == '';
+console.log(test19)
+//The result is null as there are different data typies.
