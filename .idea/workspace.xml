@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c94ea28a-45d3-432b-b9c4-80a3a4c5b7ba" name="Changes" comment="Committed the updated homework2, task 3, changed variable names">
+      <change afterPath="$PROJECT_DIR$/task1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BohdanaVashchuk&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="413dd9fe-d069-475a-ae99-4fd993dc6f57" />
+        <option name="url" value="https://github.com/BohdanaVashchuk/HomeWorkHillel.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dgfQQZHnDS1szl0G6fyHYNGWME" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Node.js.additionalTask.js.executor": "Run",
+    "Node.js.dataType.js.executor": "Run",
+    "Node.js.task1.js.executor": "Run",
+    "Node.js.task2.js.executor": "Run",
+    "Node.js.task3.js.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "js__homework4",
+    "last_opened_file_path": "C:/Users/b.vashchuk/Desktop/HomeWorkHillel",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94ea28a-45d3-432b-b9c4-80a3a4c5b7ba" name="Changes" comment="" />
+      <created>1710434625917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710434625917</updated>
+      <workItem from="1710434626981" duration="1297000" />
+      <workItem from="1710436923835" duration="21058000" />
+      <workItem from="1710679919427" duration="5985000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit the homework with data types. &#10;Console log has been used to verify myself.">
+      <option name="closed" value="true" />
+      <created>1710501271494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710501271494</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Commit the homework with Conditional constructions.">
+      <option name="closed" value="true" />
+      <created>1710621665918</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710621665918</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit the fixed issues with tests">
+      <option name="closed" value="true" />
+      <created>1710621785923</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710621785923</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit the homeWork3">
+      <option name="closed" value="true" />
+      <created>1710679198170</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710679198170</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Committed the updated homework3. Added the missed comparison null == ''.">
+      <option name="closed" value="true" />
+      <created>1710680003362</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710680003362</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Committed the updated homework2, task 3, changed variable names">
+      <option name="closed" value="true" />
+      <created>1710751173368</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710751173369</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Committed the updated homework2, task 3, changed variable names">
+      <option name="closed" value="true" />
+      <created>1710751412293</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710751412293</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Commit the homework with data types. &#10;Console log has been used to verify myself." />
+    <MESSAGE value="Commit the homework with Conditional constructions." />
+    <MESSAGE value="Commit the fixed issues with tests" />
+    <MESSAGE value="Commit the homeWork3" />
+    <MESSAGE value="Committed the updated homework3. Added the missed comparison null == ''." />
+    <MESSAGE value="Committed the updated homework2, task 3, changed variable names" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committed the updated homework2, task 3, changed variable names" />
+  </component>
+</project>
